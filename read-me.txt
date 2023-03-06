@@ -1,0 +1,13 @@
+Install Packages before you start np run dev
+1) Tailwind Css
+-npm install -D tailwindcss
+npx tailwind css init
+
+2)  for using older dependencies of react we use --legacy-peer-deps
+3)  For React three Js fiber framework we use (@react/three/fiber) this allows us to three js code in react fashion
+4) (@react-three-drei maath) its allows to three js to maths utlity function
+5) (react-tilt) for transition and animation (old version of react)
+6) (react-vertical-timeline-component) for builten component of vertical timeline
+7) (emailjs/browser farmer-motion) For emailJs form authentication
+8) (react-router-dom) for build a react routers manupulation in virtual DOM	
+ 
